@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 330" width="1000" height="330" role="img" aria-label="Animated timing diagram of a pipeline register">
+<defs><linearGradient id="wbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1330"/><stop offset="1" stop-color="#050a16"/></linearGradient>
+<clipPath id="view"><rect x="0" y="52" width="854" height="260"/></clipPath></defs>
+<rect width="1000" height="330" rx="14" fill="url(#wbg)" stroke="#1e293b" stroke-width="1.5"/>
+<circle cx="26" cy="24" r="6" fill="#f87171"/><circle cx="46" cy="24" r="6" fill="#f59e0b"/><circle cx="66" cy="24" r="6" fill="#34d399"/>
+<text x="92" y="29" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#64748b">$ gtkwave pipeline_reg.vcd</text>
+<text x="980" y="29" text-anchor="end" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="13" fill="#34d399">posedge clk -&gt; Q &lt;= D</text>
+<line x1="0" y1="46" x2="1000" y2="46" stroke="#1e293b" stroke-width="1.5"/>
+<text x="22" y="97" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="15" font-weight="700" fill="#22d3ee">CLK</text>
+<text x="22" y="143" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="15" font-weight="700" fill="#34d399">EN</text>
+<text x="22" y="189" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="15" font-weight="700" fill="#a78bfa">D[3:0]</text>
+<text x="22" y="235" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="15" font-weight="700" fill="#f59e0b">Q[3:0]</text>
+<text x="22" y="281" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="15" font-weight="700" fill="#22d3ee">DONE</text>
+<g transform="translate(130,0)"><g clip-path="url(#view)"><g>
+<line x1="0" y1="66" x2="0" y2="298" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 5"/>
+<line x1="80" y1="66" x2="80" y2="298" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 5"/>
+<line x1="160" y1="66" x2="160" y2="298" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 5"/>
+<line x1="240" y1="66" x2="240" y2="298" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 5"/>
+<line x1="320" y1="66" x2="320" y2="298" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 5"/>
+<line x1="400" y1="66" x2="400" y2="298" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 5"/>
+<line x1="480" y1="66" x2="480" y2="298" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 5"/>
+<line x1="560" y1="66" x2="560" y2="298" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 5"/>
+<line x1="640" y1="66" x2="640" y2="298" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 5"/>
+<line x1="720" y1="66" x2="720" y2="298" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 5"/>
+<line x1="800" y1="66" x2="800" y2="298" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 5"/>
+<line x1="880" y1="66" x2="880" y2="298" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 5"/>
+<line x1="960" y1="66" x2="960" y2="298" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 5"/>
+<line x1="1040" y1="66" x2="1040" y2="298" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 5"/>
+<line x1="1120" y1="66" x2="1120" y2="298" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 5"/>
+<line x1="1200" y1="66" x2="1200" y2="298" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 5"/>
+<line x1="1280" y1="66" x2="1280" y2="298" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 5"/>
+<line x1="1360" y1="66" x2="1360" y2="298" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 5"/>
+<line x1="1440" y1="66" x2="1440" y2="298" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 5"/>
+<path d="M0,104 V80 H40.0 V104 H80 V80 H120.0 V104 H160 V80 H200.0 V104 H240 V80 H280.0 V104 H320 V80 H360.0 V104 H400 V80 H440.0 V104 H480 V80 H520.0 V104 H560 V80 H600.0 V104 H640 V80 H680.0 V104 H720 V80 H760.0 V104 H800 V80 H840.0 V104 H880 V80 H920.0 V104 H960 V80 H1000.0 V104 H1040 V80 H1080.0 V104 H1120 V80 H1160.0 V104 H1200 V80 H1240.0 V104 H1280 V80 H1320.0 V104 H1360 V80 H1400.0 V104 H1440 V80 H1480.0 V104 H1520" fill="none" stroke="#22d3ee" stroke-width="2.2"/>
+<path d="M0,126 H86V126 H166V150 H246V126 H326V126 H406V126 H486V150 H566V126 H646V126 H726V126 H806V150 H886V126 H966V126 H1046V126 H1126V150 H1206V126 H1286V126 H1366V126 H1446V150 H1526" fill="none" stroke="#34d399" stroke-width="2.2"/>
+<polygon points="6,184 12,172 80,172 86,184 80,196 12,196" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-width="2"/>
+<text x="46.0" y="189" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">3</text>
+<polygon points="86,184 92,172 160,172 166,184 160,196 92,196" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-width="2"/>
+<text x="126.0" y="189" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">A</text>
+<polygon points="166,184 172,172 240,172 246,184 240,196 172,196" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-width="2"/>
+<text x="206.0" y="189" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">C</text>
+<polygon points="246,184 252,172 320,172 326,184 320,196 252,196" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-width="2"/>
+<text x="286.0" y="189" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">5</text>
+<polygon points="326,184 332,172 400,172 406,184 400,196 332,196" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-width="2"/>
+<text x="366.0" y="189" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">3</text>
+<polygon points="406,184 412,172 480,172 486,184 480,196 412,196" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-width="2"/>
+<text x="446.0" y="189" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">A</text>
+<polygon points="486,184 492,172 560,172 566,184 560,196 492,196" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-width="2"/>
+<text x="526.0" y="189" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">C</text>
+<polygon points="566,184 572,172 640,172 646,184 640,196 572,196" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-width="2"/>
+<text x="606.0" y="189" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">5</text>
+<polygon points="646,184 652,172 720,172 726,184 720,196 652,196" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-width="2"/>
+<text x="686.0" y="189" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">3</text>
+<polygon points="726,184 732,172 800,172 806,184 800,196 732,196" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-width="2"/>
+<text x="766.0" y="189" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">A</text>
+<polygon points="806,184 812,172 880,172 886,184 880,196 812,196" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-width="2"/>
+<text x="846.0" y="189" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">C</text>
+<polygon points="886,184 892,172 960,172 966,184 960,196 892,196" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-width="2"/>
+<text x="926.0" y="189" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">5</text>
+<polygon points="966,184 972,172 1040,172 1046,184 1040,196 972,196" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-width="2"/>
+<text x="1006.0" y="189" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">3</text>
+<polygon points="1046,184 1052,172 1120,172 1126,184 1120,196 1052,196" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-width="2"/>
+<text x="1086.0" y="189" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">A</text>
+<polygon points="1126,184 1132,172 1200,172 1206,184 1200,196 1132,196" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-width="2"/>
+<text x="1166.0" y="189" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">C</text>
+<polygon points="1206,184 1212,172 1280,172 1286,184 1280,196 1212,196" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-width="2"/>
+<text x="1246.0" y="189" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">5</text>
+<polygon points="1286,184 1292,172 1360,172 1366,184 1360,196 1292,196" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-width="2"/>
+<text x="1326.0" y="189" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">3</text>
+<polygon points="1366,184 1372,172 1440,172 1446,184 1440,196 1372,196" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-width="2"/>
+<text x="1406.0" y="189" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">A</text>
+<polygon points="1446,184 1452,172 1520,172 1526,184 1520,196 1452,196" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-width="2"/>
+<text x="1486.0" y="189" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">C</text>
+<polygon points="16,230 22,218 90,218 96,230 90,242 22,242" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-width="2"/>
+<text x="56.0" y="235" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">5</text>
+<polygon points="96,230 102,218 170,218 176,230 170,242 102,242" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-width="2"/>
+<text x="136.0" y="235" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">3</text>
+<polygon points="176,230 182,218 250,218 256,230 250,242 182,242" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-width="2"/>
+<text x="216.0" y="235" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">A</text>
+<polygon points="256,230 262,218 330,218 336,230 330,242 262,242" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-width="2"/>
+<text x="296.0" y="235" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">C</text>
+<polygon points="336,230 342,218 410,218 416,230 410,242 342,242" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-width="2"/>
+<text x="376.0" y="235" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">5</text>
+<polygon points="416,230 422,218 490,218 496,230 490,242 422,242" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-width="2"/>
+<text x="456.0" y="235" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">3</text>
+<polygon points="496,230 502,218 570,218 576,230 570,242 502,242" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-width="2"/>
+<text x="536.0" y="235" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">A</text>
+<polygon points="576,230 582,218 650,218 656,230 650,242 582,242" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-width="2"/>
+<text x="616.0" y="235" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">C</text>
+<polygon points="656,230 662,218 730,218 736,230 730,242 662,242" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-width="2"/>
+<text x="696.0" y="235" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">5</text>
+<polygon points="736,230 742,218 810,218 816,230 810,242 742,242" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-width="2"/>
+<text x="776.0" y="235" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">3</text>
+<polygon points="816,230 822,218 890,218 896,230 890,242 822,242" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-width="2"/>
+<text x="856.0" y="235" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">A</text>
+<polygon points="896,230 902,218 970,218 976,230 970,242 902,242" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-width="2"/>
+<text x="936.0" y="235" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">C</text>
+<polygon points="976,230 982,218 1050,218 1056,230 1050,242 982,242" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-width="2"/>
+<text x="1016.0" y="235" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">5</text>
+<polygon points="1056,230 1062,218 1130,218 1136,230 1130,242 1062,242" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-width="2"/>
+<text x="1096.0" y="235" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">3</text>
+<polygon points="1136,230 1142,218 1210,218 1216,230 1210,242 1142,242" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-width="2"/>
+<text x="1176.0" y="235" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">A</text>
+<polygon points="1216,230 1222,218 1290,218 1296,230 1290,242 1222,242" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-width="2"/>
+<text x="1256.0" y="235" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">C</text>
+<polygon points="1296,230 1302,218 1370,218 1376,230 1370,242 1302,242" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-width="2"/>
+<text x="1336.0" y="235" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">5</text>
+<polygon points="1376,230 1382,218 1450,218 1456,230 1450,242 1382,242" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-width="2"/>
+<text x="1416.0" y="235" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">3</text>
+<polygon points="1456,230 1462,218 1530,218 1536,230 1530,242 1462,242" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-width="2"/>
+<text x="1496.0" y="235" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#e2e8f0">A</text>
+<path d="M0,288 H256 V264 H336 V288 H576 V264 H656 V288 H896 V264 H976 V288 H1216 V264 H1296 V288 H1500" fill="none" stroke="#22d3ee" stroke-width="2.2" opacity="0.9"/>
+<animateTransform attributeName="transform" type="translate" from="0 0" to="-320 0" dur="6s" repeatCount="indefinite"/></g></g></g>
+<line x1="530" y1="60" x2="530" y2="304" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="4 4" opacity="0.7"/>
+</svg>

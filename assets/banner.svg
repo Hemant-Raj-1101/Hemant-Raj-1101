@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Hemant Raj - ECE, FPGA, Verilog, VLSI">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050a16"/><stop offset="1" stop-color="#0b1330"/></linearGradient>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="0.55" stop-color="#34d399"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<linearGradient id="chip" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16243f"/><stop offset="1" stop-color="#0c1730"/></linearGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#1e293b" stroke-width="0.6" opacity="0.55"/></pattern>
+<filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="320" rx="14" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="14" fill="url(#grid)"/>
+<path d="M850,94 H816 V20.39999999999999 H640" fill="none" stroke="#22d3ee" stroke-width="2" opacity="0.22"/>
+<path d="M850,94 H816 V20.39999999999999 H640" fill="none" stroke="#22d3ee" stroke-width="2" stroke-dasharray="6 12" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="1.40s" repeatCount="indefinite"/></path>
+<circle cx="640" cy="20.39999999999999" r="4" fill="#050a16" stroke="#22d3ee" stroke-width="2"/>
+<path d="M850,114 H804 V69.19999999999999 H624" fill="none" stroke="#34d399" stroke-width="2" opacity="0.22"/>
+<path d="M850,114 H804 V69.19999999999999 H624" fill="none" stroke="#34d399" stroke-width="2" stroke-dasharray="6 12" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="1.55s" repeatCount="indefinite"/></path>
+<circle cx="624" cy="69.19999999999999" r="4" fill="#050a16" stroke="#34d399" stroke-width="2"/>
+<path d="M850,134 H792 V118.0 H608" fill="none" stroke="#a78bfa" stroke-width="2" opacity="0.22"/>
+<path d="M850,134 H792 V118.0 H608" fill="none" stroke="#a78bfa" stroke-width="2" stroke-dasharray="6 12" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="1.70s" repeatCount="indefinite"/></path>
+<circle cx="608" cy="118.0" r="4" fill="#050a16" stroke="#a78bfa" stroke-width="2"/>
+<path d="M850,154 H780 V170.0 H592" fill="none" stroke="#f59e0b" stroke-width="2" opacity="0.22"/>
+<path d="M850,154 H780 V170.0 H592" fill="none" stroke="#f59e0b" stroke-width="2" stroke-dasharray="6 12" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="1.85s" repeatCount="indefinite"/></path>
+<circle cx="592" cy="170.0" r="4" fill="#050a16" stroke="#f59e0b" stroke-width="2"/>
+<path d="M850,174 H768 V218.8 H576" fill="none" stroke="#22d3ee" stroke-width="2" opacity="0.22"/>
+<path d="M850,174 H768 V218.8 H576" fill="none" stroke="#22d3ee" stroke-width="2" stroke-dasharray="6 12" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="2.00s" repeatCount="indefinite"/></path>
+<circle cx="576" cy="218.8" r="4" fill="#050a16" stroke="#22d3ee" stroke-width="2"/>
+<path d="M850,194 H756 V267.6 H560" fill="none" stroke="#34d399" stroke-width="2" opacity="0.22"/>
+<path d="M850,194 H756 V267.6 H560" fill="none" stroke="#34d399" stroke-width="2" stroke-dasharray="6 12" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="2.15s" repeatCount="indefinite"/></path>
+<circle cx="560" cy="267.6" r="4" fill="#050a16" stroke="#34d399" stroke-width="2"/>
+<path d="M1070,94 H1096 V44 H1160" fill="none" stroke="#a78bfa" stroke-width="2" opacity="0.22"/>
+<path d="M1070,94 H1096 V44 H1160" fill="none" stroke="#a78bfa" stroke-width="2" stroke-dasharray="6 12" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="1.60s" repeatCount="indefinite"/></path>
+<circle cx="1160" cy="44" r="4" fill="#050a16" stroke="#a78bfa" stroke-width="2"/>
+<path d="M1070,114 H1108 V84 H1138" fill="none" stroke="#f59e0b" stroke-width="2" opacity="0.22"/>
+<path d="M1070,114 H1108 V84 H1138" fill="none" stroke="#f59e0b" stroke-width="2" stroke-dasharray="6 12" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="1.72s" repeatCount="indefinite"/></path>
+<circle cx="1138" cy="84" r="4" fill="#050a16" stroke="#f59e0b" stroke-width="2"/>
+<path d="M1070,134 H1120 V134 H1116" fill="none" stroke="#22d3ee" stroke-width="2" opacity="0.22"/>
+<path d="M1070,134 H1120 V134 H1116" fill="none" stroke="#22d3ee" stroke-width="2" stroke-dasharray="6 12" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="1.84s" repeatCount="indefinite"/></path>
+<circle cx="1116" cy="134" r="4" fill="#050a16" stroke="#22d3ee" stroke-width="2"/>
+<path d="M1070,154 H1132 V188 H1160" fill="none" stroke="#34d399" stroke-width="2" opacity="0.22"/>
+<path d="M1070,154 H1132 V188 H1160" fill="none" stroke="#34d399" stroke-width="2" stroke-dasharray="6 12" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="1.96s" repeatCount="indefinite"/></path>
+<circle cx="1160" cy="188" r="4" fill="#050a16" stroke="#34d399" stroke-width="2"/>
+<path d="M1070,174 H1144 V228 H1138" fill="none" stroke="#22d3ee" stroke-width="2" opacity="0.22"/>
+<path d="M1070,174 H1144 V228 H1138" fill="none" stroke="#22d3ee" stroke-width="2" stroke-dasharray="6 12" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="2.08s" repeatCount="indefinite"/></path>
+<circle cx="1138" cy="228" r="4" fill="#050a16" stroke="#22d3ee" stroke-width="2"/>
+<rect x="850" y="90" width="20" height="8" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="1050" y="90" width="20" height="8" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="890" y="50" width="8" height="20" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="890" y="250" width="8" height="20" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="850" y="110" width="20" height="8" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="1050" y="110" width="20" height="8" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="910" y="50" width="8" height="20" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="910" y="250" width="8" height="20" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="850" y="130" width="20" height="8" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="1050" y="130" width="20" height="8" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="930" y="50" width="8" height="20" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="930" y="250" width="8" height="20" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="850" y="150" width="20" height="8" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="1050" y="150" width="20" height="8" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="950" y="50" width="8" height="20" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="950" y="250" width="8" height="20" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="850" y="170" width="20" height="8" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="1050" y="170" width="20" height="8" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="970" y="50" width="8" height="20" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="970" y="250" width="8" height="20" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="850" y="190" width="20" height="8" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="1050" y="190" width="20" height="8" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="990" y="50" width="8" height="20" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="990" y="250" width="8" height="20" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="850" y="210" width="20" height="8" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="1050" y="210" width="20" height="8" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="1010" y="50" width="8" height="20" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="1010" y="250" width="8" height="20" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="850" y="230" width="20" height="8" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="1050" y="230" width="20" height="8" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="1030" y="50" width="8" height="20" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="1030" y="250" width="8" height="20" rx="1.5" fill="#94a3b8" opacity="0.85"/>
+<rect x="870" y="70" width="180" height="180" rx="10" fill="url(#chip)" stroke="#22d3ee" stroke-width="2" filter="url(#glow)"/>
+<rect x="904" y="104" width="112" height="112" rx="6" fill="#0a1226" stroke="#34d399" stroke-width="1.5"><animate attributeName="opacity" values="0.65;1;0.65" dur="2.4s" repeatCount="indefinite"/></rect>
+<circle cx="884" cy="84" r="4" fill="#f59e0b"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+<text x="960.0" y="158.0" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="24" font-weight="700" fill="#22d3ee">FPGA</text>
+<text x="960.0" y="182.0" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#34d399">VERILOG | RTL</text>
+<text x="60" y="140" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="66" font-weight="800" fill="url(#tg)" filter="url(#glow)">HEMANT RAJ</text>
+<text x="62" y="186" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="22" fill="#e2e8f0">ECE @ VIT Bhopal</text>
+<text x="62" y="224" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="18" fill="#22d3ee">Digital Design  .  Verilog HDL  .  FPGA  .  VLSI</text>
+<text x="62" y="258" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="16" font-style="italic" fill="#64748b">// from logic gates to silicon</text>
+<rect x="284" y="244" width="9" height="18" fill="#34d399"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<g><path d="M0,308 V296 H20.0 V308 H40 V296 H60.0 V308 H80 V296 H100.0 V308 H120 V296 H140.0 V308 H160 V296 H180.0 V308 H200 V296 H220.0 V308 H240 V296 H260.0 V308 H280 V296 H300.0 V308 H320 V296 H340.0 V308 H360 V296 H380.0 V308 H400 V296 H420.0 V308 H440 V296 H460.0 V308 H480 V296 H500.0 V308 H520 V296 H540.0 V308 H560 V296 H580.0 V308 H600 V296 H620.0 V308 H640 V296 H660.0 V308 H680 V296 H700.0 V308 H720 V296 H740.0 V308 H760 V296 H780.0 V308 H800 V296 H820.0 V308 H840 V296 H860.0 V308 H880 V296 H900.0 V308 H920 V296 H940.0 V308 H960 V296 H980.0 V308 H1000 V296 H1020.0 V308 H1040 V296 H1060.0 V308 H1080 V296 H1100.0 V308 H1120 V296 H1140.0 V308 H1160 V296 H1180.0 V308 H1200 V296 H1220.0 V308 H1240 V296 H1260.0 V308 H1280" fill="none" stroke="#34d399" stroke-width="2" opacity="0.55"><animateTransform attributeName="transform" type="translate" from="0 0" to="-40 0" dur="1.2s" repeatCount="indefinite"/></path></g>
+</svg>
